@@ -1,0 +1,37 @@
+body {
+
+background-color: lightyellow;
+
+font-family: Arial;
+
+text-align: center;
+
+}
+
+.box {
+
+margin-top: 150px;
+
+}
+
+h1 {
+
+color: purple;
+
+}
+
+button {
+
+background-color: gray;
+
+color: white;
+
+font-size: 24px;
+
+padding: 20px 40px;
+
+border: none;
+
+border-radius: 15px;
+
+cursor: pointer;
